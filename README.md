@@ -4,7 +4,7 @@
 
 <br/>
 <br/>
-(https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=al)]
+
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 
 <h3>🚀 About Me</h3> 
